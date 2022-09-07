@@ -1,0 +1,56 @@
+.header{
+  border: 10px inset fuchsia;
+}
+
+.description {
+   border: 5px inset #e3b89f;
+  padding: 5px;
+  margin: 5px;
+}
+
+
+
+
+img{
+  border: 5px solid red;
+  padding: 5px; 
+  margin:4px;
+}
+
+
+.row1 {
+    display: flex;
+    justify-content: center;
+}
+
+.row2 {
+    display: flex;
+    justify-content: center;
+}
+
+
+h1 {
+    text-transform: uppercase;
+ 
+    width: 30%;
+    padding: 1.2em 0;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5em;
+    
+}
+
+body {
+
+    font-family: 'Roboto Mono', monospace;
+    font-size: 24px;
+    background-color: #f5c842;
+}
+
+
+h2 {
+    font-size: 1.75rem;
+}
+
+img {
+    width: 200px;
+}
